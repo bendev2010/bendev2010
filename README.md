@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @bendev2010
+- 👀 I’m interested in Web Development, React, Python and AI
+- 🌱 I’m currently learning React
+- 📫 How to reach me bendev2024@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I was born in England and moved to America at 12 years old
